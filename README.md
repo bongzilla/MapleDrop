@@ -1,7 +1,8 @@
-FooCoin (FOO)
+MapleDrop (MPD)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
+Scrypt PoW Cryptocurrency
 
-
-Scrypt Hashcash PoW Template
+Block Time: 2 minutes
+Block Reward: 30MPD
+Total Supply: 12.5 Million MPD
